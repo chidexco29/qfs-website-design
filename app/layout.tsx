@@ -10,7 +10,7 @@ export const metadata: Metadata = {
   title: "Quantum Financial Systems - QFS",
   description:
     "Revolutionizing finance through quantum computing technology. Experience unprecedented speed, security, and precision in financial operations.",
-  generator: "v0.app",
+    
 }
 
 export default function RootLayout({
